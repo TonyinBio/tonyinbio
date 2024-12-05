@@ -1,6 +1,7 @@
-### Hi there 👋
-- 🌱 I’m currently learning machine learning
-- 😄 Pronouns: he/him
+### Hi! My name is Tony. Feel free to take a look around. Right now, I'm interested in:
+- Reinforcement learning
+- Biomedical applications of AI
+- Learning problem representations
 
 <!--
 **TonyinBio/tonyinbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
